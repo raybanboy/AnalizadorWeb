@@ -1,4 +1,1 @@
--> Error al pulsar sobre el boton descargar, error
-en la ejecucion del programa. (No descarga
-las Url en formato texto, deberia descargarlas
-y mostrarlas en dicho programa)
+
